@@ -1,0 +1,36 @@
+*{
+    background-color:rgb(255, 0, 212);
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.img{
+    height: auto;
+    width: auto;
+}
+
+h1 h3 {
+    font-weight: bold;
+}
+
+.recipe, .steps, .description {
+    background-color: rgb(123, 255, 0);
+}
+
+h3, .description {
+    font-size: larger;
+    text-align: center;
+}
+
+.description.header{
+    font-size: x-large;
+    font-weight: 900;
+    
+}
+
+.meat{
+    color: rgb(0, 225, 255);
+}
